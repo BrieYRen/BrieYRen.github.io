@@ -30,6 +30,4 @@ sass:
 
 exclude:
 - "*.gemspec"
-- LICENSE.md
-- CONTRIBUTING.md
 - README.md 
