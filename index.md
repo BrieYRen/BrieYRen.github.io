@@ -48,22 +48,6 @@ show_tile: false
 		</div>
 	</section>	
 	<section>
-		<a href="https://github.com/BrieYRen/RoomOfOneself" class="image">
-			<img src="{% link assets/images/ROO_Prototype1.gif %}" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3><a href="https://github.com/BrieYRen/RoomOfOneself">Room Of Oneself</a></h3>
-				</header>
-				<p><b>Unity | PC | Third-person Adventure | Programmer </b> <br/> Made with Unity and C#. Version control with Git. Scrum with Trello. <br/>I've been working on this project since Jan 2022 as programmer and designer in a 2-person team.</p>
-				<ul class="actions">
-					<li><a href="https://github.com/BrieYRen/RoomOfOneself" class="button">Github Repository</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
 		<a href="https://ldjam.com/events/ludum-dare/49/unstable-stable" class="image">
 			<img src="{% link assets/images/ld49.png %}" alt="" data-position="center center" />
 		</a>
@@ -88,7 +72,7 @@ show_tile: false
 				<header class="major">
 					<h3><a href="https://ldjam.com/events/ludum-dare/48/root-deeper">Root Deeper</a></h3>
 				</header>
-				<p>A 2d similation game made in 3 days for Ludum Dare 48 Game Jam. <br/>Made with Unity, and I'm in a one-person team. <br/>The biggest challenge is I never made 2d or WebGL game before and I must learn and make it in 72h.</p>
+				<p><b>Unity | WebGL | Simulation | Game Jam Project </b><br/> A 2d similation game made in 3 days for Ludum Dare 48 Game Jam. <br/>Made with Unity, and I'm in a one-person team. <br/>The biggest challenge is I never made 2d or WebGL game before and I must learn and make it in 72h.</p>
 				<ul class="actions">
 					<li><a href="https://ldjam.com/events/ludum-dare/48/root-deeper" class="button">Visit Project</a></li>
 				</ul>
@@ -102,12 +86,13 @@ show_tile: false
 <section id="five">
 	<div class="inner">		
 		<h3 id="content">
-			<center><a href="https://brielley.itch.io/">And More Projects on My Itch.io Page! </a></center>
+			<center>And More Projects on My Itch.io and Github! </center>
 		</h3>
 		<p>I've been making games since 2019. My first game is a narrative-driven first-person adventure. I was inspired by a musical and trying to make a fan game, during which I learnt how to use Unity and how to code C# and how to design the levels and UIs and how to make musics using public domain sheets. And that's the most fantastic journey I've ever experienced. Well, when see it today, that very first game of mine is quite rough. However, it's just at that time, I found my calling. Soon after that, I made my second game, a first-person survival about a stray dog who just lost the loved one trying to survive and rebuild relatedness in an indifferent world, and then the third. I made six games in the last two years and made friends who share the same passion along the way. Inspirations burst when we communicate with each other using our own vocabularies from different disciplines, and result in explorations of new possibilities of gameplay features and implementations - my seventh game in development Room of Oneself is one of them.  
 		</p>
 		<ul class="actions">
-			<li><a href="https://brielley.itch.io/" class="button next">Go to my itch.io to see more games</a></li>
+			<li><a href="https://brielley.itch.io/" class="button next">See more released games on my itch.io</a></li>
+			<li><a href="https://github.com/BrieYRen/RoomOfOneself" class="button next">See in-development game on my github</a></li>
 		</ul>
 	</div>
 </section>
