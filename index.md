@@ -56,7 +56,7 @@ show_tile: false
 				<header class="major">
 					<h3><a href="https://ldjam.com/events/ludum-dare/49/unstable-stable">Unstable Stable</a></h3>
 				</header>
-				<p><b>Unity | PC | Puzzle | Game Jam Project | Programmer</b> <br> A 2d puzzle game made in 72h for Ludum Dare 49 Game Jam. <br/>Made with Unity, and I'm the only programmer in a team of 6 individules. <br/>The biggest challenge is to integrate art assets created by talent artists with no game dev experience. </p>
+				<p><b>Unity | PC & Android | Puzzle | Game Jam Project | Programmer</b> <br> A 2d puzzle game made in 72h for Ludum Dare 49 Game Jam. <br/>Made with Unity, and I'm the only programmer in a team of 6 individules. <br/>The biggest challenge is to integrate art assets created by talent artists with no game dev experience. </p>
 				<ul class="actions">
 					<li><a href="https://ldjam.com/events/ludum-dare/49/unstable-stable" class="button">Visit Project</a></li>
 				</ul>
