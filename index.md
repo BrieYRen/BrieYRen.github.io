@@ -31,6 +31,22 @@ show_tile: false
 			</div>
 		</div>
 	</section>
+		<section>
+		<a href="https://ldjam.com/events/ludum-dare/50/one-last-round" class="image">
+			<img src="{% link assets/images/ld50.gif %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3><a href="https://ldjam.com/events/ludum-dare/50/one-last-round">One Last Round</a></h3>
+				</header>
+				<p><b>Unity | WebGL & PC | Puzzle Adventure | Game Jam Project | Programmer</b> <br>A 2d puzzle adventure game made in 3 weeks for Ludum Dare 50 Game Jam Extra. <br/>Made with Unity and C#, version control with Git. I'm the only programmer in a team of 3 individules. <br/>The biggest challenge is to change music seamlessly for short cutscenes. </p>
+				<ul class="actions">
+					<li><a href="https://ldjam.com/events/ludum-dare/50/one-last-round" class="button">Visit Project</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>	
 	<section>
 		<a href="https://brielley.itch.io/the-way-home" class="image">
 			<img src="{% link assets/images/twhTutorials.png %}" alt="" data-position="top center" />
@@ -46,7 +62,7 @@ show_tile: false
 				</ul>
 			</div>
 		</div>
-	</section>	
+	</section>		
 	<section>
 		<a href="https://ldjam.com/events/ludum-dare/49/unstable-stable" class="image">
 			<img src="{% link assets/images/ld49.png %}" alt="" data-position="center center" />
@@ -88,7 +104,7 @@ show_tile: false
 		<h3 id="content">
 			<center>And More Projects on My Itch.io and Github! </center>
 		</h3>
-		<p>I've been making games since 2019. My first game is a narrative-driven first-person adventure. I was inspired by a musical and trying to make a fan game, during which I learnt how to use Unity and how to code C# and how to design the levels and UIs and how to make musics using public domain sheets. And that's the most fantastic journey I've ever experienced. Well, when see it today, that very first game of mine is quite rough. However, it's just at that time, I found my calling. Soon after that, I made my second game, a first-person survival about a stray dog who just lost the loved one trying to survive and rebuild relatedness in an indifferent world, and then the third. I made six games in the last two years and made friends who share the same passion along the way. Inspirations burst when we communicate with each other using our own vocabularies from different disciplines, and result in explorations of new possibilities of gameplay features and implementations - my seventh game in development Room of Oneself is one of them.  
+		<p>I've been making games since 2019. My first game is a narrative-driven first-person adventure. I was inspired by a musical and trying to make a fan game, during which I learnt how to use Unity and how to code C# and how to design the levels and UIs and how to make musics using public domain sheets. And that's the most fantastic journey I've ever experienced. Well, when see it today, that very first game of mine is quite rough. However, it's just at that time, I found my calling. Soon after that, I made my second game, a first-person survival about a stray dog who just lost the loved one trying to survive and rebuild relatedness in an indifferent world, and then the third. I made seven games in the last two and a half years and made friends who share the same passion along the way. Inspirations burst when we communicate with each other using our own vocabularies from different disciplines, and result in explorations of new possibilities of gameplay features and implementations - my eighth game in development Room of Oneself is one of them.  
 		</p>
 		<ul class="actions">
 			<li><a href="https://brielley.itch.io/" class="button next">See more released games on my itch.io</a></li>
