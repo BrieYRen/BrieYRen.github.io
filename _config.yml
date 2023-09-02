@@ -1,0 +1,32 @@
+# site settings
+title: Brie
+subtitle: Y.R.
+email: brieyr@outlook.com
+description: I'm a passionate indie game developer. <br/> I love playing and making games!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author: Brie Y. Ren
+
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  envelope: mailto:brieyr@outlook.com
+  gamepad: https://brielley.itch.io/
+  github: https://github.com/BrieYRen
+  
+  
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- README.md 
